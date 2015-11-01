@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{B900B626-82ED-47BA-8556-5E8638EA6ECF}</ProjectGuid>
+    <ProjectGuid>{10070485-D5BE-4DDA-BBDB-A01F2F4D5CFA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>OPPcpp</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
@@ -155,7 +155,7 @@
   <ItemGroup>
     <ClCompile Include="bel.cpp" />
     <ClCompile Include="complex.cpp" />
-    <ClCompile Include="OPP cpp.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="point.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
