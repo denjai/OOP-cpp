@@ -42,6 +42,13 @@ int main()
 	p1.setX0Y0(7, 9);
 	//--------------------
 
+	//Operators
+	Complex a(7, 2), b(5, 5), c,d;
+
+	c = a + b;
+	a += b;
+	++c;
+	d=b++;
 
 	return 0;
 }
